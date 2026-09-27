@@ -7,3 +7,4 @@ git push
 git branch
 git merge
 
+make sure follow it step by step
